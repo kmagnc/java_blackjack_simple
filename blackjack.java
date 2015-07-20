@@ -1,7 +1,6 @@
 /**
  * Blackjack
  * KD
- * October 2012
  **/
 
 
